@@ -52,7 +52,7 @@ export default function RootLayout({
           </>
         )}
       </body>
-     <footer><a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备20009881号-1</a></footer>
+     <footer><a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备16025972号-1</a></footer>
     </html>
   );
 }
